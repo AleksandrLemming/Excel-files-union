@@ -1,0 +1,9 @@
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\bin\Debug\Excel files union for MMW app.exe.config
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\bin\Debug\Excel files union for MMW app.exe
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\bin\Debug\Excel files union for MMW app.pdb
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\obj\Debug\Excel files union for MMW app.csprojResolveAssemblyReference.cache
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\obj\Debug\Excel_files_union_for_MMW_app.Form1.resources
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\obj\Debug\Excel_files_union_for_MMW_app.Properties.Resources.resources
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\obj\Debug\Excel files union for MMW app.csproj.GenerateResource.Cache
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\obj\Debug\Excel files union for MMW app.exe
+D:\Projects\Excel files union for MMW app\Excel files union for MMW app\obj\Debug\Excel files union for MMW app.pdb
